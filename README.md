@@ -1,1 +1,1 @@
-An in-class demonstration about symbolic production systems for PSY 360. 
+An in-class demonstration about symbolic production systems for PSY 360. Slides are included with presenter notes for TAs. Students should download the "student" version, and wait to look at the answers only later.
